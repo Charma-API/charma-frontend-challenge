@@ -1,6 +1,6 @@
 # Programmeringstest - Frontend Developer
 
-**Tech stack:** React, Next.js, TypeScript, Tailwind CSS
+**Tech stack:** React, Next.js, TypeScript, Tailwind CSS  
 **Tidsåtgång:** 1-3 timmar (gör inte mer än du hinner polish:a)
 
 ---
